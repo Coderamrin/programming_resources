@@ -7,7 +7,8 @@
 	1. https://www.vikingcodeschool.com/prep 	
 	2. https://bournetocode.com/
 ### problem solving 
-	https://medium.com/@dannysmith/breaking-down-problems-its-hard-when-you-re-learning-to-code-f10269f4ccd5 	
+	https://medium.com/@dannysmith/breaking-down-problems-its-hard-when-you-re-learning-to-code-f10269f4ccd5
+	https://bournetocode.com/projects/8-CS-ProblemSolving/pages/1_Lesson.html
 ### simple programming projects
 	https://adriann.github.io/programming_problems.html	
 ### programming basic
